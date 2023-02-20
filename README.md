@@ -53,7 +53,6 @@ This project was carried out using the following technologies:
     <li><a href="">HTML - the standard markup language for creating web pages</a></li>
     <li><a href="">CSS - a style language used to define the presentation of web pages</a></li>
     <li><a href="">GitHub - a software development platform based on Git</a></li>
-    <li><a href="">Figma - Figma is a cloud-based graphic design tool that allows teams to collaborate in real time on user interface (UI) design projects
 </a></li>
   </ul>
 </details>
