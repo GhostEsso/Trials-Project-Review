@@ -17,7 +17,7 @@
 - [📝 License](#license)
 
 
-# 📖 Portofolio: set up and mobile
+# 📖 Review one of my past projects
 
 > Description 
 Code review is a collaborative process that can help improve overall code quality by identifying errors and potential issues. This can help avoid bugs, speed up development processes, and improve application stability and reliability.
